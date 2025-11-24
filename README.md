@@ -18,32 +18,28 @@ DSA, Java, Networking, System Design basics
 
 Projects:
 
-🔹 File Converter Website (Java + DSA concepts)
-
-🔹 Roblox Games → SkyClash + Mr. Zombie FPS
-
-🔹 Personal tools like budgeting apps, Notion templates
+🔹 
 
 Building a strong profile for future AI/Data/Cloud internships
 
 🛠️ Tools & Technologies I Use
 
 Languages:
-Java • Python • C • JavaScript • Assembly (beginner)
+• Java • Python 
 
 Core CS:
-Data Structures & Algorithms • OOP • Computer Networks • OS • DBMS
+Data Structures & Algorithms 
 
 Tech Stack:
-Git • GitHub (@gagankishoreint-glitch) • VS Code • IntelliJ • Notion • Excel
+• Git • GitHub (@gagankishoreint-glitch) • VS Code • IntelliJ • Notion • Excel
 
 Cloud & Data (Learning):
-AWS • SQL • Data Engineering fundamentals
+• Data Engineering fundamentals
 
 📫 How to reach me
 
-📧 Email: your email here
+📧 Email: gagankb2006@gmail.com
 
 💼 GitHub: github.com/gagankishoreint-glitch
 
-💼 LinkedIn: your link here  
+💼 LinkedIn:www.linkedin.com/in/gagankishore
